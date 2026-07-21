@@ -21,4 +21,4 @@ Uyen Nhu Le Khac, A Robustness-Centric Framework for Large Language Models Unlea
 
 ## PhD Students – Completed
 
-Student Name, Topic, 2021–2026,  University, Iran (Co-supervised with )
+Azam Davahli, A New Hybrid Approach Based on the Combination of Grey Wolf Optimizer and Genetic Algorithm for Intrusion Detection Systems in Internet of Things Networks, 2019-2022, Islamic Azad University, Iran, (co-supervised with Dr Mahboobeh Shamsi)
