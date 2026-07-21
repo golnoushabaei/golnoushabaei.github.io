@@ -4,8 +4,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
-
 ## RMIT University
 
 **COSC2410 – Software Engineering Project**  
