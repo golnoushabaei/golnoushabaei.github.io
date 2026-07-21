@@ -4,8 +4,6 @@ permalink: /prospective/
 author_profile: true
 ---
 
-## Prospective Students
-
 I am always keen to work with highly motivated and talented PhD and Masters by Research students. If you are interested in pursuing research under my supervision, please email me with a brief introduction, your CV, and a summary of your research interests.
 
 Strong applicants typically have a background in Computer Science, Software Engineering, Artificial Intelligence, Data Science, or a related discipline. While not mandatory, having one or two publications in reputable Computer Science or Software Engineering conferences or journals will strengthen your application.
