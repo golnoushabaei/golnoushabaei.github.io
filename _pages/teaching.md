@@ -33,11 +33,11 @@ Semesters 2 (2023, 2024, 2025, 2026)
 *Lecturer and Course Coordinator (Undergraduate and Postgraduate Courses)*  
 Semesters 1 and 2 (2022)
 
-**FIT3161 / FIT3162 – Computer Science Project 1 / 2**  
+**FIT3161 / FIT3162 – Computer Science Project 1/2**  
 *Project Supervisor*  
 Semesters 1 and 2 (2021, 2022)
 
-**FIT3163 / FIT3164 – Data Science Project 1 / 2**  
+**FIT3163 / FIT3164 – Data Science Project 1/2**  
 *Project Supervisor*  
 Semesters 1 and 2 (2021, 2022)
 
