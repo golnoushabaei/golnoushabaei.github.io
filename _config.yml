@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/golnoush.jpg"
+  avatar           : "https://golnoushabaei.github.io/images/golnoush.jpg"
   name             : "Golnoush Abaei"
   pronouns         : # example: "she/her"  
   bio              : "I am a Lecturer (equivalent to a U.S. Assistant Professor) at RMIT University, Melbourne, Australia."
