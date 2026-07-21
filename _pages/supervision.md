@@ -4,8 +4,6 @@ permalink: /supervision/
 author_profile: true
 ---
 
-# Supervision
-
 ## PhD Students – Current
 
 Sana Asgari, LLMs for Software Engineering, 2026–Present, RMIT University, Australia (Co-supervised with Dr Mojtaba Shahin)
