@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Golnoush Abaei"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Lecturer (equivalent to a U.S. Assistance Professor) at RMIT University, Melbourne, Australia."
+  bio              : "I am a Lecturer (equivalent to a U.S. Assistant Professor) at RMIT University, Melbourne, Australia."
   location         : "Melbourne"
   employer         : "RMIT University/Australia"
   uri              : # URL
